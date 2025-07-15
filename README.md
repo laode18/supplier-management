@@ -1,5 +1,18 @@
-Untuk menjalankan project terlebih dahulu install semua module, dengan command :
-"npm install"
+## 🚀 Cara Menjalankan Project
 
-Lalu selanjutnya, running project dengan command:
-"npm run dev"
+### 🔧 Prasyarat
+Pastikan kamu sudah menginstall:
+- [Node.js](https://nodejs.org/) v18 atau lebih baru
+- npm v9 atau lebih baru
+
+### 📦 Install Dependencies
+Jalankan perintah berikut untuk menginstall semua module yang dibutuhkan:
+
+```bash
+npm install
+
+### ▶️ Jalankan Project
+Setelah selesai install, jalankan project dengan perintah:
+
+```bash
+npm run dev
